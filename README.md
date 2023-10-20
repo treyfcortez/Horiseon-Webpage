@@ -1,4 +1,4 @@
 # Horiseon-Webpage
 
 ## Screenshot
-![Website Screenshot](./assets/images/horiseon-screenshot.png.png)
+![Website Screenshot](./assets/images/SS.png)
