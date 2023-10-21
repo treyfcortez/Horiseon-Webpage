@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* All contents of the HTML */
 body {
     background-color: #d9dcd6;
 }
@@ -15,16 +15,16 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Horiseon header at the top left of the webpage */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changes the color of 'SEO' in the header  */
 .header h1 .seo {
-    color: #d9dcd6;
+    color:  #d9dcd6;
 }
-
+/* Styling of the three links in the top right of the main header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Hides the list bullet points */
 .header nav ul {
     list-style-type: none;
 }
-
+/* Orders links in main header to be in line together */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Contains the href attribute with the link to another webpage */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Gives font size of 16px to paragraphs */
 p {
     font-size: 16px;
 }
-
+/* The main banner image on the webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,13 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* The format for the class content boxes */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* The styling for the 'Search Engine Optimization' class section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -74,21 +74,21 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets the image size */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* Sends the images in the 'Search Engine Optimization' and 'Social Media Marketing' boxes to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Adds a margin and font size to the 'Search Engine Optimization' header text */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* The styling for the 'Online Reputation Management' class section */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,21 +97,21 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets the image size */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Sends the image in the 'Online Reputation Management' box to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Adds a margin to the class header and sets the text font size */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* The styling for the 'Social Media Marketing' class section */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,16 +120,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets the image size */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Adds a margin to the class header and sets the text font size */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* The class formatting */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,62 +140,62 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Margin size and color of the text */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Styling for the 'Lead Generation' header */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Styling for the image putting it in its own line also adding a margin and width size */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Margin size and color of the text */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Styling for the 'Brand Awareness' header */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Styling for the image putting it in its own line also adding a margin and width size */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Margin size and color of the text */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Styling for the 'Cost Management' header */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Styling for the image putting it in its own line also adding a margin and width size */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* The styling for the footer and puts it under the floats */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer font size */
 .footer h4 {
     font-size: 20px;
 }
