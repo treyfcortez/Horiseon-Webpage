@@ -3,8 +3,8 @@
 ## Description
 The purpose of our website is to help businesses bring in new customers using the internet. We have listed ways that using the internet can benefit the overall success a company can have when using social media and having an online presence.
 
-## Link
-
+## Website Link
+https://treyfcortez.github.io/Horiseon-Webpage/
 
 ## Screenshot
 ![Website Screenshot](./assets/images/SS.png)
